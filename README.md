@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Samir Hendre 👋
 
-<!--
-**samir22072/samir22072** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineer | Full-Stack Developer | Data & Systems Enthusiast  
 
-Here are some ideas to get you started:
+I enjoy building clean, scalable applications and working across the stack — from intuitive frontends to reliable backend systems and data pipelines. I care deeply about code quality, performance, and thoughtful system design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- Python
+- TypeScript / JavaScript
+- SQL
+
+### 🌐 Frontend
+- React
+- Next.js
+- Tailwind CSS
+- Framer Motion
+
+### 🧩 Backend & APIs
+- Django / Django REST Framework
+- Node.js
+- REST APIs
+
+### 🗄️ Databases
+- PostgreSQL
+- MySQL
+
+### ⚙️ DevOps & Tools
+- Docker & Docker Compose
+- Git & GitHub
+- Linux
+- n8n (Automation)
+
+---
+
+## 📌 What I’m Currently Working On
+- Improving full-stack application performance
+- Designing clean database schemas and backend workflows
+- Exploring system design and scalable architectures
+- Building reusable UI components with React & TypeScript
+
+## 🤝 Let’s Connect
+
+- 💼 LinkedIn: *[https://www.linkedin.com/in/samirhendre/]*
+- 🌐 Portfolio: *[https://my-digital-showcase-sage.vercel.app/]*
+- 📫 Email: *[samirhendre22@gmail.com]*
+
+---
