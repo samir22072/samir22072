@@ -5,11 +5,12 @@
 I enjoy building clean, scalable applications and working across the stack — from intuitive frontends to reliable backend systems and data pipelines. I care deeply about code quality, performance, and thoughtful system design.
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
 - Python
+- C++
+- Java
 - TypeScript / JavaScript
 - SQL
 
@@ -17,22 +18,24 @@ I enjoy building clean, scalable applications and working across the stack — f
 - React
 - Next.js
 - Tailwind CSS
-- Framer Motion
 
 ### 🧩 Backend & APIs
 - Django / Django REST Framework
-- Node.js
+- Flask
+- Apache Airflow
 - REST APIs
 
 ### 🗄️ Databases
 - PostgreSQL
-- MySQL
+- Redis
+- MongoDB
+- ElasticSearch
 
 ### ⚙️ DevOps & Tools
 - Docker & Docker Compose
 - Git & GitHub
-- Linux
-- n8n (Automation)
+- Linux Fundamentals
+- n8n, Crew AI (Automation)
 
 ---
 
@@ -43,7 +46,6 @@ I enjoy building clean, scalable applications and working across the stack — f
 - Building reusable UI components with React & TypeScript
 
 ## 🤝 Let’s Connect
-
 - 💼 LinkedIn: *[https://www.linkedin.com/in/samirhendre/]*
 - 🌐 Portfolio: *[https://my-digital-showcase-sage.vercel.app/]*
 - 📫 Email: *[samirhendre22@gmail.com]*
