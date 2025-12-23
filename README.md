@@ -1,53 +1,27 @@
 # Hi, I'm Samir Hendre 👋
 
-🚀 Software Engineer | Full-Stack Developer | Data & Systems Enthusiast  
+🚀 Software Engineer | Full-Stack Developer  
 
-I enjoy building clean, scalable applications and working across the stack — from intuitive frontends to reliable backend systems and data pipelines. I care deeply about code quality, performance, and thoughtful system design.
+I build scalable, well-structured applications across the stack, with a strong focus on performance, clean architecture, and reliable data workflows.
 
 ---
+
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-- Python
-- C++
-- Java
-- TypeScript / JavaScript
-- SQL
+**Languages:** Python · C++ · Java · TypeScript/JavaScript · SQL  
 
-### 🌐 Frontend
-- React
-- Next.js
-- Tailwind CSS
+**Frontend:** React · Next.js · Tailwind CSS  
 
-### 🧩 Backend & APIs
-- Django / Django REST Framework
-- Flask
-- Apache Airflow
-- REST APIs
+**Backend:** Django / DRF · Flask · Apache Airflow · REST APIs  
 
-### 🗄️ Databases
-- PostgreSQL
-- Redis
-- MongoDB
-- ElasticSearch
+**Databases:** PostgreSQL · Redis · MongoDB · Elasticsearch  
 
-### ⚙️ DevOps & Tools
-- Docker & Docker Compose
-- Git & GitHub
-- Linux Fundamentals
-- n8n, Crew AI (Automation)
+**Tools:** Docker · Git · Linux · n8n · Crew AI
 
 ---
 
-## 📌 What I’m Currently Working On
-- Improving full-stack application performance
-- Designing clean database schemas and backend workflows
-- Exploring system design and scalable architectures
-- Building reusable UI components with React & TypeScript
+## 🤝 Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/samirhendre/)
+- 🌐 [Portfolio](https://my-digital-showcase-sage.vercel.app/)
+- 📫 samirhendre22@gmail.com
 
-## 🤝 Let’s Connect
-- 💼 LinkedIn: *[https://www.linkedin.com/in/samirhendre/]*
-- 🌐 Portfolio: *[https://my-digital-showcase-sage.vercel.app/]*
-- 📫 Email: *[samirhendre22@gmail.com]*
-
----
